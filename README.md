@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Varsha-vk-05/Varsha-vk-05/main/ChatGPT%20Image%20Sep%2013%2C%202025%2C%2003_27_32%20PM.png" alt="Varsha S Hero Image" width="700" style="border-radius: 20px; box-shadow: 0 10px 40px rgba(0, 255, 255, 0.7);" />
+  <img src="https://raw.githubusercontent.com/Varsha-vk-05/Varsha-vk-05/main/hero.png" alt="Varsha S Hero Image" width="700" style="border-radius: 20px; box-shadow: 0 10px 40px rgba(0, 255, 255, 0.7);" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Varsha S</h1>
