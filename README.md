@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hello, I'm Varsha S</h1>
 
 <p align="center">
-  🌟 Full Stack Developer | Cloud Native Enthusiast <br/>
+  🌟 Software Developer | Android App Developer | Java | Kotlin| Python | <br/>
   📍 Based in India <br/>
   📧 Email: <a href="mailto:varsha.s010405@gmail.com">varsha.s010405@gmail.com</a> <br/>
   🔗 <a href="https://www.linkedin.com/in/varsha-s-a26a46339/" target="_blank">Connect with me on LinkedIn</a>
@@ -14,9 +14,7 @@
 ---
 
 ## 🚀 About Me
-I'm passionate about building cutting-edge applications and contributing to cloud-native projects.  
-My expertise includes **full stack development**, **microservices architecture**, **container orchestration**, and **DevOps automation**.  
-Let’s build something amazing together! 🚀
+I'm a Computer Science and Engineering graduate (B.E., CGPA 9.24) from Vijaya Vittala Institute of Technology, Bangalore. I build Android apps, React web applications and deep learning projects, and I enjoy turning real-world problems into reliable software. I have completed two software internships (Android development at Mind Matrix and web development at Yugayatra Retail) and I'm looking for a Software Developer role in Bengaluru
 
 ---
 
@@ -53,6 +51,33 @@ Let’s build something amazing together! 🚀
 </p>
 
 ---
+
+
+## Tech Stack
+
+- **Languages:** Java, Kotlin, Python, JavaScript, TypeScript, SQL, C, C++
+- **Android:** Jetpack Compose, Android Studio, Room, SQLite, Firebase
+- **Web:** React.js, HTML, CSS, Tailwind CSS, Vite, Chart.js
+- **Backend and APIs:** Flask, REST APIs, Supabase
+- **AI/ML:** PyTorch, CNN, Deep Learning
+- **Tools:** Git, GitHub, VS Code, Netlify, Oracle Cloud Infrastructure
+
+---
+## Experience
+
+- **Android App Development Intern**, Mind Matrix (Remote), Feb 2026 – May 2026
+- **Software Development Intern**, Yugayatra Retail OPC Pvt Ltd (Remote), Aug 2025 – Oct 2025
+
+---
+## Certifications
+
+- **Oracle Cloud Infrastructure**
+- **Java Programming (Infosys)**
+- **IBM SkillsBuild: Getting Started with AI**
+- **Skills4Future Green Skills and AI (AICTE and Edunet)**
+
+---
+
 
 ## 📫 Let’s Connect
 
